@@ -105,22 +105,22 @@
     <distributionManagement>
         <repository>
             <id>mcom-releases</id>
-            <url>https://archiva.gengler.org/repository/internal</url>
+            <url>http://archiva.gengler.org/repository/internal</url>
         </repository>
         <snapshotRepository>
             <id>mcom-snapshots</id>
-            <url>https://archiva.gengler.org/repository/snapshots</url>
+            <url>http://archiva.gengler.org/repository/snapshots</url>
         </snapshotRepository>
     </distributionManagement>
 
     <repositories>
         <repository>
           <id>mcom-releases</id>
-          <url>https://archiva.gengler.org/repository/internal</url>
+          <url>http://archiva.gengler.org/repository/internal</url>
         </repository>
         <repository>
           <id>mcom-snapshots</id>
-          <url>https://archiva.gengler.org/repository/snapshots</url>
+          <url>http://archiva.gengler.org/repository/snapshots</url>
         </repository>
   </repositories>
 
