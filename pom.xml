@@ -104,23 +104,23 @@
 
     <distributionManagement>
         <repository>
-            <id>rap-releases</id>
-            <url>http://drapmvn01.bcn.magento.com/repository/internal</url>
+            <id>mcom-releases</id>
+            <url>https://archiva.gengler.org/repository/internal</url>
         </repository>
         <snapshotRepository>
-            <id>rap-snapshots</id>
-            <url>http://drapmvn01.bcn.magento.com/repository/snapshots</url>
+            <id>mcom-snapshots</id>
+            <url>https://archiva.gengler.org/repository/snapshots</url>
         </snapshotRepository>
     </distributionManagement>
 
     <repositories>
         <repository>
-          <id>rap-releases</id>
-          <url>http://drapmvn01.bcn.magento.com/repository/internal</url>
+          <id>mcom-releases</id>
+          <url>https://archiva.gengler.org/repository/internal</url>
         </repository>
         <repository>
-          <id>rap-snapshots</id>
-          <url>http://drapmvn01.bcn.magento.com/repository/snapshots</url>
+          <id>mcom-snapshots</id>
+          <url>https://archiva.gengler.org/repository/snapshots</url>
         </repository>
   </repositories>
 
